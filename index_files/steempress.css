@@ -1,0 +1,86 @@
+
+
+.profile-pic
+{
+    border-radius: 50%; width: 120px; height: 120px;
+    object-fit: cover;
+    border : 1px solid black;
+    margin-right: 120px;
+}
+
+.author-name {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    font-size: 28px;
+    color: #000000;
+
+}
+
+.author-steem-username
+{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    font-size: 18px;
+
+    color: #999999;
+}
+
+.author-name:hover {
+    color: #626262;
+}
+
+.bs-linebreak {
+    height:2px;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+    margin-top: 3px;
+}
+
+.payout
+{
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 20px;
+    margin-top: 6px;
+}
+
+.reply-form
+{
+    margin-top : 4.5rem;
+}
+
+.upvote
+{
+    margin-top: -5.5px;
+}
+
+.votelist-body
+{
+    position: absolute;
+    z-index: 9;
+    right: 72.8px;
+    top: 101%;
+}
+
+.votelist-head
+{
+    position: absolute;
+    z-index: 9;
+    right: 72.8px;
+    top: 45%;
+}
