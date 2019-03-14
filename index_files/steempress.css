@@ -1,11 +1,12 @@
-
+.card-inner{
+    margin-left: 1rem;
+}
 
 .profile-pic
 {
     border-radius: 50%; width: 120px; height: 120px;
     object-fit: cover;
     border : 1px solid black;
-    margin-right: 120px;
 }
 
 .author-name {
